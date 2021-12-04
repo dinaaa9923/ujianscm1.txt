@@ -1,1 +1,5 @@
+ketrampilan 
+- membina repository di komputer 
+setempatbangunkan branch
+gabungkan branch
 
